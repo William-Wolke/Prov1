@@ -1,0 +1,13 @@
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\bin\Debug\netcoreapp3.1\Prov1.exe
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\bin\Debug\netcoreapp3.1\Prov1.deps.json
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\bin\Debug\netcoreapp3.1\Prov1.runtimeconfig.json
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\bin\Debug\netcoreapp3.1\Prov1.runtimeconfig.dev.json
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\bin\Debug\netcoreapp3.1\Prov1.dll
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\bin\Debug\netcoreapp3.1\Prov1.pdb
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\obj\Debug\netcoreapp3.1\Prov1.csprojAssemblyReference.cache
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\obj\Debug\netcoreapp3.1\Prov1.AssemblyInfoInputs.cache
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\obj\Debug\netcoreapp3.1\Prov1.AssemblyInfo.cs
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\obj\Debug\netcoreapp3.1\Prov1.csproj.CoreCompileInputs.cache
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\obj\Debug\netcoreapp3.1\Prov1.dll
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\obj\Debug\netcoreapp3.1\Prov1.pdb
+C:\Users\william.wolke\Documents\Programering 2\Prov1\Prov1\obj\Debug\netcoreapp3.1\Prov1.genruntimeconfig.cache
