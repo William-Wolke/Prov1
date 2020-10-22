@@ -1,12 +1,17 @@
 ﻿using System;
 
+
 namespace Prov1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Books newBook = new Books();
+
+            Customers newCustomer = new Customers();
+
+
             Console.ReadLine();
         }
     }
